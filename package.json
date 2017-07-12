@@ -1,5 +1,5 @@
 {
-  "name": "@accounts/tslint-config-accounts",
+  "name": "tslint-config-accounts",
   "version": "0.0.2",
   "main": "src/index.js",
   "files": [
