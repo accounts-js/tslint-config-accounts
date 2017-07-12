@@ -5,6 +5,9 @@
   "files": [
     "src/index.js"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": "https://github.com/js-accounts/tslint-config-accounts.git",
   "author": "Pradel Léo <pradel.leo@gmail.com>",
   "license": "MIT",
