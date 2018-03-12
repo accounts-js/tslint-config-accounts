@@ -10,6 +10,7 @@ module.exports = {
     "ordered-imports": [false],
     "no-submodule-imports": [true, "lodash"],
     "quotemark": [true, "single", "jsx-double"],
-    "prettier": [true, { "print-width": 130 }]
+    "prettier": [true, { "print-width": 130 }],
+    "curly": ["error", "multi"]
   },
 };
