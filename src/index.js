@@ -9,7 +9,6 @@ module.exports = {
     "object-literal-sort-keys": false,
     "ordered-imports": [false],
     "no-submodule-imports": [true, "lodash"],
-    "quotemark": [true, "single", "jsx-double"],
-    "prettier": [true, { "print-width": 130 }]
+    "quotemark": [true, "single", "jsx-double"]
   },
 };
