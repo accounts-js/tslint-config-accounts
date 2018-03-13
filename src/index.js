@@ -8,7 +8,6 @@ module.exports = {
     "interface-name": [false],
     "object-literal-sort-keys": false,
     "ordered-imports": [false],
-    "no-submodule-imports": [true, "lodash"],
-    "quotemark": [true, "single", "jsx-double"]
+    "no-submodule-imports": [true, "lodash"]
   },
 };
